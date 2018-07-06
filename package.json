@@ -1,0 +1,14 @@
+{
+  "name": "rankingwebscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scraper": "node index.js"
+  },
+  "author": "Brian Fang",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
